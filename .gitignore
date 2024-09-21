@@ -1,2 +1,4 @@
+.gitignore
 jongho.code-workspace
 *.class
+/algo
