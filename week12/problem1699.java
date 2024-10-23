@@ -1,10 +1,11 @@
-package jongho.week12;
+package week12;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 137928kb	284ms
 public class problem1699 {
         BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer tokens;
